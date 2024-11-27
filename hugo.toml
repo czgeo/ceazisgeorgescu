@@ -1,0 +1,21 @@
+baseURL = 'https://ceazisgeorgescu.ro/'
+languageCode = 'en-us'
+title = 'Ce a zis Georgescu?'
+theme = "papermod"
+
+[params]
+    mainSections = ["posts"]
+    ShowReadingTime = false
+    ShowPostNavLinks = true
+    disableSpecial1stPost = true
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ce a zis Georgescu?</title>
+    <link>http://192.168.1.137:1313/posts/</link>
+    <description>Recent content in Posts on Ce a zis Georgescu?</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.1.137:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Despre NATO</title>
+      <link>http://192.168.1.137:1313/posts/second-post/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Statement&lt;/strong&gt;: Totul e nimic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Anarhism total mi-e lene sa scriu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Debunk&lt;/strong&gt;: Lorem ipsum blah blah blah.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lets try this framework out</title>
+      <link>http://192.168.1.137:1313/posts/test-post/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Statement&lt;/strong&gt;: Apa este informatie  &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Apa nu e apa, ca nu curge fara sa fie la vale.  &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Debunk&lt;/strong&gt;: Apa este apa e clar pentru toata lumea.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viata pe pamantul stramosesc</title>
+      <link>http://192.168.1.137:1313/posts/third-time-charm/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/posts/third-time-charm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Statement&lt;/strong&gt;: A treia oara-i cu noroc&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Unde este dictatura cand ai nevoie de ea.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Debunk&lt;/strong&gt;: Cine suntem noi. AuAuAu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
