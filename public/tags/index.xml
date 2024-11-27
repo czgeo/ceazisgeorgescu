@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ce a zis Georgescu?</title>
-    <link>http://192.168.1.137:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Ce a zis Georgescu?</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.137:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dementa</title>
-      <link>http://192.168.1.137:1313/tags/dementa/</link>
+      <link>http://localhost:1313/tags/dementa/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/dementa/</guid>
+      <guid>http://localhost:1313/tags/dementa/</guid>
       <description></description>
     </item>
     <item>
       <title>Lalele</title>
-      <link>http://192.168.1.137:1313/tags/lalele/</link>
+      <link>http://localhost:1313/tags/lalele/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/lalele/</guid>
+      <guid>http://localhost:1313/tags/lalele/</guid>
       <description></description>
     </item>
     <item>
       <title>Politica</title>
-      <link>http://192.168.1.137:1313/tags/politica/</link>
+      <link>http://localhost:1313/tags/politica/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/politica/</guid>
+      <guid>http://localhost:1313/tags/politica/</guid>
       <description></description>
     </item>
     <item>
       <title>Religie</title>
-      <link>http://192.168.1.137:1313/tags/religie/</link>
+      <link>http://localhost:1313/tags/religie/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/religie/</guid>
+      <guid>http://localhost:1313/tags/religie/</guid>
       <description></description>
     </item>
   </channel>
