@@ -7,8 +7,8 @@ draft: false
 ---
 
 **Declaratie**: 
-*"Călin Georgescu: <span class="emphasis">Petrolul in momentul ăsta se află în Orient, în Rusia și, culmea, în România.</span> Aici este petrolul. ... Știți cât este OMV-ul? OMV-ul la vremea respectivă era cât o benzinărie Petrom de la Ploiești. Atâta valora OMV-ul. 
-Gojira: La vremea respectivă, la ce vă referiți? 
+*"Călin Georgescu: <span class="emphasis">Petrolul in momentul ăsta se află în Orient, în Rusia și, culmea, în România.</span> Aici este petrolul. ... Știți cât este OMV-ul? OMV-ul la vremea respectivă era cât o benzinărie Petrom de la Ploiești. Atâta valora OMV-ul. <br>
+Gojira: La vremea respectivă, la ce vă referiți? <br>
 Călin Georgescu: Atuncea când s-au dus tratativele de cumpărare a Petromului de către OMV. Atâta valora OMV-ul. Deci OMV-ul a venit cu acea poziție și pe care s-a schimbat astăzi în ce este ea."*
 <br>
 
