@@ -13,4 +13,5 @@ draft: false
 
 **Dovezi si fapte**: Afirmația implică susținerea unui regim agresiv, cu un istoric documentat de încălcări ale drepturilor internaționale.
 [Raport ONU privind actiunile Rusiei](https://news.un.org/en/story/2024/07/1151741)
+<!--more-->
 
