@@ -6,7 +6,7 @@ draft: false
 ---
 
 **Declaratie**: 
-Gospodaria taraneasca si pamanturile au fost distruse in special prin aceeasi metoda pe care a facut-o comunismul s-a facut si in capitalism ca este una si acelasi lucru: capitalismul este egal cu comunismul, nu exista nici o diferenta, si anume piata, care este piata monopol, si nu a mai fost piata libera. Eu sunt pentru adevarata piata libera. 
+*"Gospodaria taraneasca si pamanturile au fost distruse in special prin aceeasi metoda pe care a facut-o comunismul s-a facut si in capitalism ca este una si acelasi lucru: capitalismul este egal cu comunismul, nu exista nici o diferenta, si anume piata, care este piata monopol, si nu a mai fost piata libera. Eu sunt pentru adevarata piata libera."*
 
 **Context**: Interviu Fanatik RO cu Mihai Tatulici
 [Minutul 38](https://youtu.be/wF8YQCAyu9w?feature=shared&t=2281)
