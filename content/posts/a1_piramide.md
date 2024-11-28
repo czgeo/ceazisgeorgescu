@@ -7,7 +7,7 @@ draft: false
 
 **Declaratie**: 
 
-*"CG: Lumea vrea sa vada si apoi sa creada. Vad si piramidele egiptene care nu au fost inca folosite pentru ceea ce au fost create. 
+*"CG: Lumea vrea sa vada si apoi sa creada. Vad si <span class="emphasis">piramidele egiptene care nu au fost inca folosite pentru ceea ce au fost create</span>. 
 AP: Care sunt niste centre de energie extraordinar de puternice... 
 CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi daca il asezi pe unul in fata piramidelor, el spune ca nu sunt. "*
 

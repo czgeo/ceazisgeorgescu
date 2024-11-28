@@ -8,17 +8,17 @@ weight: 2
 
 **Declaratie**:  
 
-*"Gojira: Este Romania pregatita sa aiba presedinte o femeie in momentul asta?  
+"Gojira: Este Romania pregatita sa aiba presedinte o femeie in momentul asta?  
 CG: O femeie?  
 Gojira: Da.  
 CG: Nu.  
 Gojira: De ce?  
-CG: Pentru ca femeia are un alt rol in societate. Nu are cum sa faca fata, in fata femeii trebuie sa te pleci pentru ca da nastere la fiinta om, cum spunea Tutea. Si eu si dumneavoastra tot din femeie ne tragem.  
+CG: Pentru ca <span class="emphasis">femeia are un alt rol in societate. Nu are cum sa faca fata</span>, in fata femeii trebuie sa te pleci pentru ca da nastere la fiinta om, cum spunea Tutea. Si eu si dumneavoastra tot din femeie ne tragem.  
 
 Ca sa fii pe aceasta zona de lupta apriga nu e de joaca, asta nu poate sa faca decat un barbat, sprijinit de o femeie puternica, este foarte important ce va spun, si sprijinit de o natiune in care femeile trebuie sa aiba un rol principal. Este diferenta mare, mare, gigantica, intre feminitate, care este puterea femeii, desavarsita, si feminismul impusa de un occident degenerat, care nu a facut altceva decat sa distruga cea mai mare putere din lume.  
 
 Gojira: Deci dvs nu credeti in feminism?  
-CG: In feminism? Feminismul este o mizerie absoluta care i se atribuie femeii. Dati-mi voie sa va spun [...]"*
+CG: In feminism? <span class="emphasis">Feminismul este o mizerie absoluta</span> care i se atribuie femeii. Dati-mi voie sa va spun [...]"
 
 **Context**:  
 [Calin Georgescu - Candidat independent | Aproximativ Discutii ALEGERI 2024 cu Gojira | Podcast](https://youtu.be/cd6lf1aWyi4?feature=shared&t=1847)  
