@@ -8,9 +8,10 @@ weight: 1
 
 ### Declaratie  
 
-*"În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevoie în aceste momente. Iar mișcarea legionară atunci când se va scrie istoria adevărată, pentru că nu s-a scris încă istoria adevărată, dar se va scrie, se va arăta că a fost cea mai puternică esență și expresie de sănătate și de voință proprie venită din poporul român. A fost unică. Nu a fost nicio copie făcută de nimeni, indiferent de ce s-a spus și indiferent de ce se va spune împotriva ei.  
+_"În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevoie în aceste momente. Iar mișcarea legionară atunci când se va scrie istoria adevărată, pentru că nu s-a scris încă istoria adevărată, dar se va scrie, se va arăta că a fost cea mai puternică esență și expresie de sănătate și de voință proprie venită din poporul român. A fost unică. Nu a fost nicio copie făcută de nimeni, indiferent de ce s-a spus și indiferent de ce se va spune împotriva ei.  
 
-Și chiar dacă nu se știe încă acest lucru, vreau să le atrag atenția acestor pseudo istorici și pseudo culți care se grăbesc să împroaște cu noroi această expresie de sănătate, ea face parte din istoria poporului român. Și manipularea de azi a fost atunci."*  
+Și chiar dacă nu se știe încă acest lucru, vreau să le atrag atenția acestor pseudo istorici și pseudo culți care se grăbesc să împroaște cu noroi această expresie de sănătate, ea face parte din istoria poporului român. Și manipularea de azi a fost atunci."_
+  
 
 ### Context  
 [Live cu dr. Călin Georgescu: A supraviețui identitar](https://www.facebook.com/GoguPuiu49/videos/3153666288043581/)  
