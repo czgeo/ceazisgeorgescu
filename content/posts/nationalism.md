@@ -15,9 +15,9 @@ _"În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevo
 
 ### Context  
 [Live cu dr. Călin Georgescu: A supraviețui identitar](https://www.facebook.com/GoguPuiu49/videos/3153666288043581/)  
-<!--more-->
-### Dovezi si fapte  
 
+### Dovezi si fapte  
+<!--more-->
 **Despre unicitatea mișcării legionare**:  
 Mișcarea legionară nu a fost "unică" în context european, ci a fost parte dintr-un val mai amplu de mișcări fasciste și ultranaționaliste. Comparația cu fascismul italian și nazismul german arată că acestea aveau similitudini, cum ar fi lideri carismatici, glorificarea violenței și structuri paramilitare:  
 
