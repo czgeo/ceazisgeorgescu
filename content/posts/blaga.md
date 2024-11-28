@@ -22,6 +22,8 @@ CG: A, atunci, nu acum!"*
 
 ### Dovezi și fapte  
 
+**Lucian Blaga se afla pe banconota de 200 RON**
+
 **Lucian Blaga în programa școlară**:  
 Lucian Blaga se regăsește pe lista autorilor canonici în [programa școlară](https://cdn.edupedu.ro/wp-content/uploads/2024/08/programe-bac-2025_-Limba-si-literatura-romana-pentru-scolile-si-sectiile-cu-predare-in-limba-maghiara.pdf), alături de alții: Mihai Eminescu, I.L. Caragiale, Ioan Slavici, Marin Preda, Nichita Stănescu etc.  
 
