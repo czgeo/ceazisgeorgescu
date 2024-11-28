@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/tags/dezinformare/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.1ea6760d952bf18669c78fd67262d43ca75142ba4d948daa3662fbee5fa5f7f0.css" integrity="sha256-HqZ2DZUr8YZpx4/WcmLUPKdRQrpNlI2qNmL77l&#43;l9/A=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="canonical" href="http://192.168.1.137:1313/tags/dezinformare/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.2a9ac3cfcc7103a78a740f7fcb6a45b7528777d67f740ac556a16532f2f9da8e.css" integrity="sha256-KprDz8xxA6eKdA9/y2pFt1KHd9Z/dArFVqFlMvL52o4=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://192.168.1.137:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://192.168.1.137:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://192.168.1.137:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://192.168.1.137:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://192.168.1.137:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/dezinformare/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/dezinformare/">
+<link rel="alternate" type="application/rss+xml" href="http://192.168.1.137:1313/tags/dezinformare/index.xml">
+<link rel="alternate" hreflang="en" href="http://192.168.1.137:1313/tags/dezinformare/">
 <noscript>
     <style>
         #theme-toggle,
@@ -74,7 +74,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Ce a zis Georgescu? (Alt + H)">Ce a zis Georgescu?</a>
+            <a href="http://192.168.1.137:1313/" accesskey="h" title="Ce a zis Georgescu? (Alt + H)">Ce a zis Georgescu?</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -100,12 +100,12 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/" title="Home">
+                <a href="http://192.168.1.137:1313/" title="Home">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/manipulare/" title="Oare sunt manipulat?">
+                <a href="http://192.168.1.137:1313/manipulare/" title="Oare sunt manipulat?">
                     <span>Oare sunt manipulat?</span>
                 </a>
             </li>
@@ -134,7 +134,240 @@
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Despre Nationalismul Global si Miscarea Legionara" href="http://localhost:1313/posts/nationalism/"></a>
+  <a class="entry-link" aria-label="post link to Despre Nationalismul Global si Miscarea Legionara" href="http://192.168.1.137:1313/posts/nationalism/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <div class="card-label">Click for more</div>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Blaga, unul din principalii interzisi in Romania.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3 id="declaratie">Declaratie</h3>
+<p><em>&ldquo;CG: Este ceea ce Blaga spunea, nu vreau, nu sfaram, <span class="emphasis">cupola lumii</span>
+Gojira: Corola de minuni a lumii, va zic eu exact<br>
+CG: Exact, corola de minuni a lumii, nu vreau sa ucid prin mintea mea, lucrurile pe care le intalnesc in cale, ochi, in flori, pe buze sau morminte.
+Deci este rasunator ce a spus Blaga, si ganditi-va ca Lucian Blaga este unul din <span class="emphasis">principalii interzisi in Romania</span>. Deci nu vreau sa sfaram corola de minuni a lumii, e esential, asta este legatura.<br>
+Gojira: Unde e interzis Blaga, domnul Georgescu? Ca se preda in scoli..
+CG: Lucian Blaga? Daca dumneavoastra imi demonstrati ca este predat in scoli&hellip;
+Gojira: In clasa a 9-a, eu l-am studiat pe Lucian Blaga la Limba si Literatura Romana<br>
+CG: A, atunci, nu acum!&rdquo;</em></p>
+<h3 id="context">Context</h3>
+<p><a href="https://www.youtube.com/watch?v=cd6lf1aWyi4">Calin Georgescu - Candidat independent | Aproximativ Discutii ALEGERI 2024 cu Gojira | Podcast</a></p>
+<h3 id="dovezi-și-fapte">Dovezi și fapte</h3>
+<p><strong>Lucian Blaga în programa școlară</strong>:<br>
+Lucian Blaga se regăsește pe lista autorilor canonici în <a href="https://cdn.edupedu.ro/wp-content/uploads/2024/08/programe-bac-2025_-Limba-si-literatura-romana-pentru-scolile-si-sectiile-cu-predare-in-limba-maghiara.pdf">programa școlară</a>, alături de alții: Mihai Eminescu, I.L. Caragiale, Ioan Slavici, Marin Preda, Nichita Stănescu etc.</p>
+    
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to Blaga, unul din principalii interzisi in Romania." href="http://192.168.1.137:1313/posts/blaga/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <div class="card-label">Click for more</div>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Eolienele nu produc energie, sunt la nivel de 0.01%
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3 id="declaratie">Declaratie</h3>
+<p><em>&ldquo;Nu produc eolienele energie, <span class="emphasis">eolienele sunt la nivel de 0.01%.</span> Ce produce energie este energia din apa, energia din carbune, astea sunt elementele primare. Cine v-a spus despre energia eoliana va spun ca nu este asa, si este o demonstratie precisa. [&hellip;] Cine? Eolienele? Nu are cum, nu are cum sa fie asa. Eolinele <span class="emphasis">au un efect foarte nociv secundar, radiatiile, electromagnetism, acolo se distruge viata din jur,</span> din tot ceea ce creste, culturile, fauna, flora sunt secatuite.&rdquo;</em></p>
+<h3 id="context">Context</h3>
+<p><a href="https://youtu.be/wF8YQCAyu9w?si=78le0NmeJCWHLeNk&amp;t=994">Cine este Calin Georgescu, UN PARTID CAT UN POPOR! DIALOG FABULOS cu Mihai Tatulici</a></p>
+<h3 id="dovezi-și-fapte">Dovezi și fapte</h3>
+<p><strong>Producția de energie eoliană în România</strong>:<br>
+În 2022, energia eoliană a produs aproximativ <strong>7000 Gigawatt/oră</strong> în România, contribuind semnificativ la mixul energetic național.</p>
+<ul>
+<li>Sursa: <a href="https://onoff.greatnews.ro/producatori-de-energie-eoliana-in-romania-lista-completa-a-centralelor-in-2024/">Raport energetic</a></li>
+</ul>
+    
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to Eolienele nu produc energie, sunt la nivel de 0.01%" href="http://192.168.1.137:1313/posts/3_eoliene/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -159,7 +392,242 @@ CG: In feminism? <span class="emphasis">Feminismul este o mizerie absoluta</span
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Feminismul este o mizerie absoluta" href="http://localhost:1313/posts/feminism/"></a>
+  <a class="entry-link" aria-label="post link to Feminismul este o mizerie absoluta" href="http://192.168.1.137:1313/posts/feminism/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <div class="card-label">Click for more</div>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">România e un stat slab, sărac și înapoiat
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3 id="declaratie">Declaratie</h3>
+<p><em>&ldquo;România e un stat slab, sărac și înapoiat.&rdquo;</em></p>
+<h3 id="context">Context</h3>
+<p><a href="https://www.facebook.com/GoguPuiu49/videos/3153666288043581">Live cu Gogu Puiu: România în Europa</a></p>
+<h3 id="dovezi-și-fapte">Dovezi și fapte</h3>
+<p><strong>Puterea națională a României</strong>:<br>
+Conform clasamentului Global Firepower din 2023, care evaluează puterea militară a 145 de națiuni, România ocupă locul 47. Acest clasament ia în considerare factori precum numărul de militari activi, echipamentele militare și bugetul apărării. Deși nu se află în topul mondial, România deține o influență regională semnificativă în Europa de Est și în cadrul Uniunii Europene.</p>
+<ul>
+<li>Sursa: <a href="https://www.digi24.ro/stiri/actualitate/topul-celor-mai-puternice-armate-ale-lumii-in-2023-ce-efective-si-dotari-are-romania-si-ce-loc-ocupa-2364795">Digi24 - Topul celor mai puternice armate ale lumii în 2023</a></li>
+</ul>
+<p><strong>Rata riscului de sărăcie și creșterea economică</strong>:<br>
+În ceea ce privește creșterea economică, Produsul Intern Brut (PIB) al României a înregistrat o creștere semnificativă în ultimele trei decenii. De exemplu, în 1990, PIB-ul României era de aproximativ 38,5 miliarde USD, iar în 2020 a ajuns la aproximativ 250 miliarde USD, conform datelor Băncii Mondiale.</p>
+<ul>
+<li>Surse:
+<ul>
+<li><a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RO">Banca Mondială - PIB România</a></li>
+<li><a href="https://economedia.ro/grafic-cum-a-evoluat-economia-romaniei-pana-la-un-nou-rezultat-surpriza-de-crestere-in-trimestrul-ii-pib-ul-tarii-depaseste-cu-82-nivelul-de-dinaintea-pandemiei-de-ce-nu-simtim-ca-economia-du.html">Economedia - Evoluția economiei României</a></li>
+</ul>
+</li>
+</ul>
+    
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to România e un stat slab, sărac și înapoiat" href="http://192.168.1.137:1313/posts/saracie/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <div class="card-label">Click for more</div>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Limba latină se trage din limba română
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p><strong>Declaratie</strong>:
+<em>&ldquo;Mihai Tatulici (citind o declarație de-a lui Georgescu): Proto-româna a reprezentat rădăcina limbii latine și nu invers. Indiscutabil.
+CG: Eu vă spun doar atât. Orice neam din&hellip;<span class="emphasis">orice populație din Europa va dori să-și cunoască identitatea și rădăcinile va da sigur de limba română.</span> [&hellip;] &ldquo;</em>
+<br></p>
+<p><strong>Context</strong>: Cine este Calin Georgescu, UN PARTID CAT UN POPOR! DIALOG FABULOS cu Mihai Tatulici  <a href="https://youtu.be/wF8YQCAyu9w?si=emgSabHEi1N2cozn&amp;t=2744">Minutul 45</a></p>
+<p><strong>Dovezi si fapte</strong>:  <a href="https://ro.wikipedia.org/wiki/Istoria_limbii_rom%C3%A2ne">Istoria Limbii Romane</a></p>
+    
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to Limba latină se trage din limba română" href="http://192.168.1.137:1313/posts/prima-limba/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -176,7 +644,68 @@ CG: In feminism? <span class="emphasis">Feminismul este o mizerie absoluta</span
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Capitalismul este egal cu Comunismul" href="http://localhost:1313/posts/capitalismcomunism/"></a>
+  <a class="entry-link" aria-label="post link to Capitalismul este egal cu Comunismul" href="http://192.168.1.137:1313/posts/capitalismcomunism/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -195,7 +724,68 @@ C.G: Exact. Și, apropo, a fost asasinat, exact în aceeași situație ca la Ken
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Declaratie despre seful OMS" href="http://localhost:1313/posts/2_rasism/"></a>
+  <a class="entry-link" aria-label="post link to Declaratie despre seful OMS" href="http://192.168.1.137:1313/posts/2_rasism/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -213,7 +803,68 @@ CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi d
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Despre Piramide si centre de energie" href="http://localhost:1313/posts/a1_piramide/"></a>
+  <a class="entry-link" aria-label="post link to Despre Piramide si centre de energie" href="http://192.168.1.137:1313/posts/a1_piramide/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -235,7 +886,68 @@ CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi d
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Industria este la pamant" href="http://localhost:1313/posts/industria/"></a>
+  <a class="entry-link" aria-label="post link to Industria este la pamant" href="http://192.168.1.137:1313/posts/industria/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -251,7 +963,68 @@ CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi d
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Longevitatea in Insulele Marshall" href="http://localhost:1313/posts/longevitate/"></a>
+  <a class="entry-link" aria-label="post link to Longevitatea in Insulele Marshall" href="http://192.168.1.137:1313/posts/longevitate/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -267,7 +1040,68 @@ CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi d
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Nu exista COVID, singura stiinta este Iisus Hristos" href="http://localhost:1313/posts/covid/"></a>
+  <a class="entry-link" aria-label="post link to Nu exista COVID, singura stiinta este Iisus Hristos" href="http://192.168.1.137:1313/posts/covid/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -283,12 +1117,73 @@ CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi d
     
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Omul nu a ajuns pe Luna" href="http://localhost:1313/posts/1_luna/"></a>
+  <a class="entry-link" aria-label="post link to Omul nu a ajuns pe Luna" href="http://192.168.1.137:1313/posts/1_luna/"></a>
+  
+  <div class="card-actions">
+        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
+        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
+  </div>
+  <script>
+    function copyText() {
+        const summaryText = document.querySelector('.card .summary').innerText; 
+        const postUrl = window.location.href; 
+
+        
+        const tempTextArea = document.createElement('textarea');
+        document.body.appendChild(tempTextArea);
+        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+
+        
+        showCopyAnimation();
+    }
+
+    function shareText() {
+        const postUrl = window.location.href; 
+
+        if (navigator.share) {
+            navigator.share({
+                title: document.title,
+                text: 'Check out this post!',
+                url: postUrl
+            }).then(() => {
+                console.log('Shared successfully');
+            }).catch((error) => {
+                console.log('Sharing failed', error);
+            });
+        } else {
+            
+            alert('Sharing is not supported in your browser.');
+        }
+
+        
+        showShareAnimation();
+    }
+
+    
+    function showCopyAnimation() {
+        const btn = document.querySelector('.copy-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+
+    function showShareAnimation() {
+        const btn = document.querySelector('.share-btn');
+        btn.classList.add('clicked');
+        setTimeout(() => {
+            btn.classList.remove('clicked');
+        }, 3000);
+    }
+  </script>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2024 <a href="http://localhost:1313/">Ce a zis Georgescu?</a></span> · 
+        <span>&copy; 2024 <a href="http://192.168.1.137:1313/">Ce a zis Georgescu?</a></span> · 
 
     <span>
         Powered by

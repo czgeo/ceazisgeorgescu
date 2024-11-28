@@ -44,9 +44,13 @@
     border: 1px solid var(--border);
 }
 
-.post-entry:active {
+/*.post-entry:active {
     transform: scale(0.96);
-}
+}*/
+
+.post-entry:active:not(:has(.copy-btn:active)) {
+    transform: scale(0.96); /* Keep the push effect for other clicks */
+  }
 
 .tag-entry .entry-cover {
     display: none;

@@ -25,3 +25,25 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
         color: #333; /* Light text for dark mode */
     }
 }
+
+  .copy-btn {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 4px 8px;
+    background-color: #eee;
+    color: #333;
+    border: none;
+    border-radius: var(--radius) 0 var(--radius) 0;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 600;
+    transition: background-color 0.7s ease;
+  }
+
+  .copy-btn.clicked {
+    background-color: #0056b3; 
+    color: white; 
+  }
+
+

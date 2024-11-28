@@ -92,6 +92,32 @@
   </footer>
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  <button class="copy-btn" onclick="copyToClipboard(this)">Copy Text</button>
+  <script>
+    function copyToClipboard(button) {
+      // Get the closest article element
+      const article = button.closest('article');
+      // Get the post summary (content)
+      const summary = article.querySelector('.entry-content').innerText;
+      // Append the link to the summary
+      const postLink = article.querySelector('.entry-link').href;
+      const textToCopy = summary + "\n" + "Read more here: " + postLink;
+  
+      // Create a temporary text area to copy the text
+      const textArea = document.createElement('textarea');
+      textArea.value = textToCopy;
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textArea);
+      // button animation
+      button.classList.add('clicked');
+      setTimeout(() => {
+      button.classList.remove('clicked');
+    }, 3000);
+    }
+  </script>
+  
 </article>
 {{- end }}
 

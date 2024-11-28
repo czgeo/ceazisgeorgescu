@@ -2,129 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ce a zis Georgescu?</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://192.168.1.137:1313/tags/</link>
     <description>Recent content in Tags on Ce a zis Georgescu?</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.137:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aberatii</title>
+      <link>http://192.168.1.137:1313/tags/aberatii/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/aberatii/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Capitalism</title>
-      <link>http://localhost:1313/tags/capitalism/</link>
+      <link>http://192.168.1.137:1313/tags/capitalism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/capitalism/</guid>
+      <guid>http://192.168.1.137:1313/tags/capitalism/</guid>
       <description></description>
     </item>
     <item>
       <title>Comunism</title>
-      <link>http://localhost:1313/tags/comunism/</link>
+      <link>http://192.168.1.137:1313/tags/comunism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/comunism/</guid>
+      <guid>http://192.168.1.137:1313/tags/comunism/</guid>
       <description></description>
     </item>
     <item>
       <title>Conspiratie</title>
-      <link>http://localhost:1313/tags/conspiratie/</link>
+      <link>http://192.168.1.137:1313/tags/conspiratie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/conspiratie/</guid>
+      <guid>http://192.168.1.137:1313/tags/conspiratie/</guid>
       <description></description>
     </item>
     <item>
       <title>Covid-19</title>
-      <link>http://localhost:1313/tags/covid-19/</link>
+      <link>http://192.168.1.137:1313/tags/covid-19/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/covid-19/</guid>
+      <guid>http://192.168.1.137:1313/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura</title>
+      <link>http://192.168.1.137:1313/tags/cultura/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/cultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dacii</title>
+      <link>http://192.168.1.137:1313/tags/dacii/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/dacii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delir</title>
+      <link>http://192.168.1.137:1313/tags/delir/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/delir/</guid>
       <description></description>
     </item>
     <item>
       <title>Dezinformare</title>
-      <link>http://localhost:1313/tags/dezinformare/</link>
+      <link>http://192.168.1.137:1313/tags/dezinformare/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dezinformare/</guid>
+      <guid>http://192.168.1.137:1313/tags/dezinformare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dezvoltare</title>
+      <link>http://192.168.1.137:1313/tags/dezvoltare/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/dezvoltare/</guid>
       <description></description>
     </item>
     <item>
       <title>Economie</title>
-      <link>http://localhost:1313/tags/economie/</link>
+      <link>http://192.168.1.137:1313/tags/economie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/economie/</guid>
+      <guid>http://192.168.1.137:1313/tags/economie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Educatie</title>
+      <link>http://192.168.1.137:1313/tags/educatie/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/educatie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energie</title>
+      <link>http://192.168.1.137:1313/tags/energie/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/energie/</guid>
       <description></description>
     </item>
     <item>
       <title>Extremism</title>
-      <link>http://localhost:1313/tags/extremism/</link>
+      <link>http://192.168.1.137:1313/tags/extremism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/extremism/</guid>
+      <guid>http://192.168.1.137:1313/tags/extremism/</guid>
       <description></description>
     </item>
     <item>
       <title>Feminism</title>
-      <link>http://localhost:1313/tags/feminism/</link>
+      <link>http://192.168.1.137:1313/tags/feminism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feminism/</guid>
+      <guid>http://192.168.1.137:1313/tags/feminism/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideologie</title>
-      <link>http://localhost:1313/tags/ideologie/</link>
+      <link>http://192.168.1.137:1313/tags/ideologie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ideologie/</guid>
+      <guid>http://192.168.1.137:1313/tags/ideologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incoerenta</title>
+      <link>http://192.168.1.137:1313/tags/incoerenta/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/incoerenta/</guid>
       <description></description>
     </item>
     <item>
       <title>Industrie</title>
-      <link>http://localhost:1313/tags/industrie/</link>
+      <link>http://192.168.1.137:1313/tags/industrie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/industrie/</guid>
+      <guid>http://192.168.1.137:1313/tags/industrie/</guid>
       <description></description>
     </item>
     <item>
       <title>Istorie</title>
-      <link>http://localhost:1313/tags/istorie/</link>
+      <link>http://192.168.1.137:1313/tags/istorie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/istorie/</guid>
+      <guid>http://192.168.1.137:1313/tags/istorie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Limba Romana</title>
+      <link>http://192.168.1.137:1313/tags/limba-romana/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/limba-romana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literatura</title>
+      <link>http://192.168.1.137:1313/tags/literatura/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/literatura/</guid>
       <description></description>
     </item>
     <item>
       <title>Longevitate</title>
-      <link>http://localhost:1313/tags/longevitate/</link>
+      <link>http://192.168.1.137:1313/tags/longevitate/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/longevitate/</guid>
+      <guid>http://192.168.1.137:1313/tags/longevitate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mediu</title>
+      <link>http://192.168.1.137:1313/tags/mediu/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/mediu/</guid>
       <description></description>
     </item>
     <item>
       <title>Rasism</title>
-      <link>http://localhost:1313/tags/rasism/</link>
+      <link>http://192.168.1.137:1313/tags/rasism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rasism/</guid>
+      <guid>http://192.168.1.137:1313/tags/rasism/</guid>
       <description></description>
     </item>
     <item>
       <title>Religie</title>
-      <link>http://localhost:1313/tags/religie/</link>
+      <link>http://192.168.1.137:1313/tags/religie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/religie/</guid>
+      <guid>http://192.168.1.137:1313/tags/religie/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusia</title>
-      <link>http://localhost:1313/tags/rusia/</link>
+      <link>http://192.168.1.137:1313/tags/rusia/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rusia/</guid>
+      <guid>http://192.168.1.137:1313/tags/rusia/</guid>
       <description></description>
     </item>
     <item>
       <title>Schengen</title>
-      <link>http://localhost:1313/tags/schengen/</link>
+      <link>http://192.168.1.137:1313/tags/schengen/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/schengen/</guid>
+      <guid>http://192.168.1.137:1313/tags/schengen/</guid>
       <description></description>
     </item>
     <item>
       <title>Stiinta</title>
-      <link>http://localhost:1313/tags/stiinta/</link>
+      <link>http://192.168.1.137:1313/tags/stiinta/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stiinta/</guid>
+      <guid>http://192.168.1.137:1313/tags/stiinta/</guid>
       <description></description>
     </item>
   </channel>
