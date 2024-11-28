@@ -4,6 +4,8 @@ title = 'Ce a zis Georgescu?'
 theme = "papermod"
 paginate = 1000
 
+
+
 [params]
     mainSections = ["posts"]
     ShowReadingTime = false
@@ -24,3 +26,6 @@ paginate = 1000
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON", "robotsTXT"]

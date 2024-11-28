@@ -10,7 +10,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     right: 0px;
     background-color: #555; /* Grey background for light mode */
     color: #f5f5f5; /* Dark text for light mode */
-    border-radius: var(--radius);
+    border-radius: 0 var(--radius) 0 var(--radius);
     padding: 4px 8px;
     font-size: 12px;
     font-weight: 600;
