@@ -2,8 +2,8 @@
 title: "Feminismul este o mizerie absoluta"
 date: 2024-11-28
 tags: ["feminism", "dezinformare"]
-weight:1
 draft: false
+weight: 2
 ---
 
 **Declaratie**:  
