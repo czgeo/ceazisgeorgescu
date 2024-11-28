@@ -1,5 +1,5 @@
 ---
-title: "Eu nu pot sa sfaram corola de minuni a lumii, este esential."
+title: "Blaga, unul din principalii interzisi in Romania."
 date: 2024-11-28
 tags: ["cultura", "educatie", "dezinformare", "literatura"]
 draft: false
