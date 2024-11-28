@@ -29,5 +29,5 @@ Niciun politician sau partid nu poate oferi soluții miraculoase pentru toate pr
 
 <h3 style="color:#02D8E9;">Cultivă empatia și înțelegerea</h3>
 Manipularea se hrănește din diviziune și polarizare. Încearcă să înțelegi perspectivele celor care gândesc diferit de tine. Empatia este esențială pentru a depăși barierele și a construi un dialog constructiv.
-
+<br><br>
 Manipularea va exista mereu, dar putem învăța să o recunoaștem și să ne apărăm împotriva ei. Să nu uităm că adevărul este adesea complex și nu se reduce la simplificări convenabile. Este responsabilitatea noastră să fim vigilenți, să căutăm adevărul în toate nuanțele sale și să nu ne lăsăm influențați de iluzii înșelătoare.
