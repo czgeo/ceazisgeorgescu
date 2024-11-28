@@ -14,3 +14,4 @@ draft: false
 **Dovezi si fapte**: 
 - Producția industrială a României a crescut în ultimii 30 de ani cu 75% ([Banca Mondiala](https://prosperitydata360.worldbank.org/en/indicator/IMF+IFS+AIPMA_IX))
 - [Buletin Statistic de Industrie INS](https://insse.ro/cms/sites/default/files/field/publicatii/buletin_statistic_de_industrie_nr09_2024.pdf)
+<!--more-->
