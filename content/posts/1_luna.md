@@ -11,7 +11,7 @@ draft: false
 
 
 **Context**: [MANUAL OF USE OF THE ROMANIAN SOUL, Guest CĂLIN GEORGESCU](https://www.youtube.com/watch?v=TOMcErkWalI)
-
+<!--more-->
 **Dovezi si fapte**: 
 - [Apollo 17 Real-time Mission Experience](https://apolloinrealtime.org/17/?t=120:49:25)
 - [Dumitru Prunariu despre Aselenizare](https://www.youtube.com/watch?v=-fCjzPLyySs)

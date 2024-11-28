@@ -15,7 +15,7 @@ _"În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevo
 
 ### Context  
 [Live cu dr. Călin Georgescu: A supraviețui identitar](https://www.facebook.com/GoguPuiu49/videos/3153666288043581/)  
-
+<!--more-->
 ### Dovezi si fapte  
 
 **Despre unicitatea mișcării legionare**:  

@@ -2,35 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/nationalism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/feminism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/capitalism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/capitalismcomunism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dementa/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/comunism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/conspiratie/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lalele/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/covid-19/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test-post/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/2_rasism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/politica/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/a1_piramide/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dezinformare/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economie/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/extremism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/feminism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ideologie/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/industria/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/industrie/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/intelepciunearusa/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/istorie/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/longevitate/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/longevitate/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/covid/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1_luna/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rasism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/religie/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rusia/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/schengen/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/schengen/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stiinta/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/third-time-charm/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

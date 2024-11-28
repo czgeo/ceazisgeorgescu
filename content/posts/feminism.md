@@ -22,7 +22,7 @@ CG: In feminism? Feminismul este o mizerie absoluta care i se atribuie femeii. D
 
 **Context**:  
 [Calin Georgescu - Candidat independent | Aproximativ Discutii ALEGERI 2024 cu Gojira | Podcast](https://youtu.be/cd6lf1aWyi4?feature=shared&t=1847)  
-
+<!--more-->
 **Dovezi si fapte**:  
 - [feminism](https://dexonline.ro/definitie/feminism)(s.n) Mișcare socială care susține egalitatea în drepturi a femeii cu bărbatul în toate sferele de activitate.  
 - Oana Băluță, conferentiar universitar UniBuc, [Ce este feminismul?](https://www.youtube.com/live/T9rUr82mZV0?feature=shared&t=57)  

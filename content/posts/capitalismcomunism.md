@@ -10,7 +10,7 @@ draft: false
 
 **Context**: Interviu Fanatik RO cu Mihai Tatulici
 [Minutul 38](https://youtu.be/wF8YQCAyu9w?feature=shared&t=2281)
-
+<!--more-->
 **Dovezi si fapte**: Comunismul pune grupul pe primul loc. Doar capitalismul și liberalismul pun individul în centru.
 
 - [comunism](https://dexonline.ro/definitie/comunism) (s.n):  Sistem social, politic și economic constituit pe principiul abolirii proprietății private și al instaurării proprietății colective asupra mijloacelor de producție și de schimb.

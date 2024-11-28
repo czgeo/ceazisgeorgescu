@@ -11,7 +11,7 @@ draft: false
 
 
 **Context**: [THE SPIRITUAL AND SOCIAL DEFENDER OF ROMANIA - CĂLIN GEORGESCU](https://www.youtube.com/watch?v=ctwNUYShvL0&t=1964s)
-
+<!--more-->
 **Dovezi si fapte**: 
 - Recordul de longevitate umană:
 Cea mai longevivă persoană din istorie, conform documentelor oficiale, este Jeanne Louise Calment, o franțuzoaică care a trăit 122 de ani și 164 de zile. Nu există nicio dovadă că vreun individ ar fi trăit până la 180-200 de ani.

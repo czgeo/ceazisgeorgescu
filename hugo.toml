@@ -2,6 +2,7 @@ baseURL = 'https://ceazisgeorgescu.ro/'
 languageCode = 'en-us'
 title = 'Ce a zis Georgescu?'
 theme = "papermod"
+paginate = 1000
 
 [params]
     mainSections = ["posts"]
