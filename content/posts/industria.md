@@ -8,7 +8,7 @@ draft: false
 **Declaratie**: 
 *"<span class="emphasis">România nu mai produce nimic</span>, noi nu avem nici o fabrica de scobituri astazi, nu producem nimic. E ceva romanesc? Cu ce suntem noi imbracati? [...] Deci neproducand nimic, tu nu poti sa ai nici o pretentie, si atunci teza mea este sa producem totul intern. Industria este la pământ."*
 
-**Context**: 
+**Sursa**: 
 [Călin Georgescu, despre ora de religie în școli și economia României](https://www.facebook.com/61555923770502/videos/570565955623956/)
 
 **Dovezi si fapte**: 
