@@ -12,7 +12,7 @@ AP: Care sunt niste centre de energie extraordinar de puternice...
 CG: Exact, vad piramidele egiptene si nu au fost inca folosite, asa cum astazi daca il asezi pe unul in fata piramidelor, el spune ca nu sunt. "*
 
 
-**Context**: [THE SPIRITUAL AND SOCIAL DEFENDER OF ROMANIA - CĂLIN GEORGESCU](https://www.youtube.com/watch?v=H44CS5KVA8g)
+**Sursa**: [THE SPIRITUAL AND SOCIAL DEFENDER OF ROMANIA - CĂLIN GEORGESCU](https://www.youtube.com/watch?v=H44CS5KVA8g)
 <!--more-->
 **Dovezi si fapte**: 
 Nu există dovezi științifice care să susțină ideea că piramidele ar fi centre de energie sau că ar avea proprietăți [bioenergetice speciale](https://en.wikipedia.org/wiki/Pyramid_power).
