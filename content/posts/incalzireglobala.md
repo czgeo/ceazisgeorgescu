@@ -23,7 +23,7 @@ CG: <span class="emphasis">N-are nici o legatura, repet, este escrocherie, ca sa
 RH: Da, dar e la scara planetara.. </span>
 CG: Inselatoria? Da, asa cum a fost si COVID, a fost un steag fals, care a fost ridicat si o omenire intreaga a cazut in genunchi, despre asta este vorba."*  
 
-### Context  
+### Sursa  
 [Dezbaterile Metropolei - Calin Georgescu, Radu Herjeu - 16 Septembrie 2024 - Metropola TV](https://youtu.be/QHyEdqyXrM0?si=N1gZu8osdvuI_dSh&t=786)  
 
 ### Dovezi și fapte  
