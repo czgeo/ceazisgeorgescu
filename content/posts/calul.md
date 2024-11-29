@@ -8,7 +8,7 @@ weight: 1
 
 ### Declaratie  
 
-*"Cea mai prosperă afacere în această lume este <span class="emphasis">industria calului. La fiecare 3-5 minute este o cursă de cai în întreaga lume.</span> România deține, morfologic vorbind, <span class="emphasis">cea mai mare capital pentru creșterea acestui nobil animal</span>, pe care de altfel l-a crescut înainte. Un cal înseamnă cel puțin 12-15 meserii, deci breslele și meseriașii ar fi, ca o floare s-ar dezvolta. Aparte de faptul că faci totul natural și extrem de pur."*  
+* "Cea mai prosperă afacere în această lume este <span class="emphasis">industria calului. La fiecare 3-5 minute este o cursă de cai în întreaga lume.</span> România deține, morfologic vorbind, <span class="emphasis">cea mai mare capital pentru creșterea acestui nobil animal</span>, pe care de altfel l-a crescut înainte. Un cal înseamnă cel puțin 12-15 meserii, deci breslele și meseriașii ar fi, ca o floare s-ar dezvolta. Aparte de faptul că faci totul natural și extrem de pur." *  
 
 ### Sursa  
 [Dr. Călin Georgescu - Universitatea de Vest, iunie 2017 – Conferinta „A fi sau A avea”](https://youtu.be/zlo5oq8XMT8?feature=shared&t=3470) 
