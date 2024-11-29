@@ -22,10 +22,10 @@ Promisiunea noastră e ca încercăm să punem doar declarațiile controversate 
 Pentru noi (opinie subiectivă) oricare din afirmațiile publicate este suficientă pentru a-i invalida credibilitatea domnului Georgescu. Astfel, orice alte idei ce poate sunt benefice, nu mai pot conta. 
 Rezultatul primului tur ne-a confirmat ca nu toți gândim la fel. Este posibil ca tu, cel sau cea care citești declarațiile, să fii de acord cu discursul lui Călin Georgescu. Întrebarea pe care o punem noi este: ești de acord cu tot ce susține Călin Georgescu? 
  <br>
-Dacă da, iți recomandăm secțiunea „Oare sunt manipulat?”. Dacă nu, te invităm să decizi pentru tine cât de tare cântăresc afirmațiile cu care nu ești de acord. <br>
+Dacă da, iți recomandăm secțiunea <span class="emphasis">„Oare sunt manipulat?”</span>. Dacă nu, te invităm să decizi pentru tine cât de tare cântăresc afirmațiile cu care nu ești de acord. <br>
 Poate nu poți sa susții pe cineva care crede că Putin este un patriot sau că legionarii au fost o forță a binelui sau că omul nu a ajuns pe lună sau că Mihai Eminescu și Iisus Hristos sunt egali în vreo măsură. 
 
 <h3>Ne cerem scuze celora pe care îi vom supăra</h3>
-Suntem convinși că în unii dintre voi aceste afirmații pot declanșa răspunsuri emoționale, indiferent de ce parte vă aflați. Încercați să priviți cu mintea deschisă și să judecați pentru voi. Încercați să decideți pentru voi dacă a fost trecută vreo linie roșie.
+Suntem convinși că în unii dintre voi aceste afirmații pot declanșa răspunsuri emoționale, indiferent de ce parte vă aflați. Încercați să priviți cu mintea deschisă și să judecați pentru voi. <span class="emphasis">Încercați să decideți pentru voi dacă a fost trecută vreo linie roșie.</span>
 
 
