@@ -1,6 +1,6 @@
 ---
 title: "Despre Nationalismul Global si Miscarea Legionara"
-date: 2024-11-28
+date: 2024-11-29
 tags: ["stiinta", "dezinformare", "istorie", "conspiratie"]
 draft: false
 weight: 1
