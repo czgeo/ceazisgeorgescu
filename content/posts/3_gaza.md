@@ -10,7 +10,7 @@ weight: 1
 
 *"CG: Zona arabă, și ce vedeți acolo pe culoarul ăla maritim care pleacă de la Siria, Beirut, Liban și Gaza... <span class="emphasis">De ce îi spune Gaza, da? De la gaz, da' nu prea se vorbesc de lucrurile astea.</span> Acolo este firul de la nord la sud, care delimitează o zonă foarte importantă de resurse."*  
 
-### Context  
+### Sursa  
 [Călin Georgescu - PUTEREA EXEMPLULUI - Realități cu Niculescu #98, Minutul 26](https://youtu.be/VIDEO_LINK)  
 
 ### Dovezi și fapte  
