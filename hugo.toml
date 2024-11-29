@@ -13,7 +13,7 @@ paginate = 1000
     disableSpecial1stPost = true
     ogTitle = "Ce a zis Catalin Georgescu? | Principalele declaratii controversate"
     ogDescription = "O agregare a principalelor declaratii controversate ale candidatului la prezidentiale Calin Georgescu, impreuna cu sursa. Fiti informati!"
-    ogImage = "/images/geo.jpg" #(relative to the `static/` folder)
+    ogImage = "/images/geo.jpeg" #(relative to the `static/` folder)
 
 [menu]
     [[menu.main]]
