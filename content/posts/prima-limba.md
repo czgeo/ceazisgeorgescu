@@ -11,7 +11,7 @@ draft: false
 CG: Eu vă spun doar atât. Orice neam din...<span class="emphasis">orice populație din Europa va dori să-și cunoască identitatea și rădăcinile va da sigur de limba română.</span> [...] "*
 <br>
 
-**Context**: Cine este Calin Georgescu, UN PARTID CAT UN POPOR! DIALOG FABULOS cu Mihai Tatulici  [Minutul 45](https://youtu.be/wF8YQCAyu9w?si=emgSabHEi1N2cozn&t=2744)
+**Sursa**: Cine este Calin Georgescu, UN PARTID CAT UN POPOR! DIALOG FABULOS cu Mihai Tatulici  [Minutul 45](https://youtu.be/wF8YQCAyu9w?si=emgSabHEi1N2cozn&t=2744)
 
 **Dovezi si fapte**:  [Istoria Limbii Romane](https://ro.wikipedia.org/wiki/Istoria_limbii_rom%C3%A2ne)
 [Cum a aparut limba romana](https://historia.ro/sectiune/general/cum-si-cand-a-aparut-limba-romana-569853.html)
