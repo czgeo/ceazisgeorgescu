@@ -12,7 +12,7 @@ draft: false
 R.F: Țin minte. A fost liderul mișcării Panterelor Negre.  
 C.G: Exact. Și, apropo, a fost asasinat, exact în aceeași situație ca la Kennedy. El a definit asta foarte clar, a zis așa: există c\*\*\*\*i de casă și c\*\*\*\*i de câmp. Tedros este exact un c\*\*\*\*i de casă. Ce înseamnă asta?"*
 
-**Context**: [Dr. Reiner Fuellmich interviews former UN executive Dr. Călin Georgescu](https://www.youtube.com/watch?v=ctwNUYShvL0&t=1428s)
+**Sursa**: [Dr. Reiner Fuellmich interviews former UN executive Dr. Călin Georgescu](https://www.youtube.com/watch?v=ctwNUYShvL0&t=1428s)
 <!--more-->
 **Dovezi si fapte**: 
 - [Analiza Mindcraft Stories](https://mindcraftstories.ro/societate/derapaj-rasist-al-lui-calin-georgescu-la-adresa-sefului-oms-intr-un-interviu-din-2023-e-un-ci-de-casa/)
