@@ -10,7 +10,7 @@ weight: 2
 
 *"România e un stat slab, sărac și înapoiat."*  
 
-### Context  
+### Sursa  
 [Live cu Gogu Puiu: România în Europa](https://www.facebook.com/GoguPuiu49/videos/3153666288043581)  
 
 ### Dovezi și fapte  
