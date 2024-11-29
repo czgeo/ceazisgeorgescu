@@ -8,7 +8,7 @@ draft: false
 **Declaratie**: 
 "Gospodaria taraneasca si pamanturile au fost distruse in special prin aceeasi metoda pe care a facut-o comunismul s-a facut si in capitalism ca este una si acelasi lucru: <span class="emphasis">capitalismul este egal cu comunismul</span>, nu exista nici o diferenta, si anume piata, care este piata monopol, si nu a mai fost piata libera. Eu sunt pentru adevarata piata libera."
 
-**Context**: Interviu Fanatik RO cu Mihai Tatulici
+**Sursa**: Interviu Fanatik RO cu Mihai Tatulici
 [Minutul 38](https://youtu.be/wF8YQCAyu9w?feature=shared&t=2281)
 <!--more-->
 **Dovezi si fapte**: Comunismul pune grupul pe primul loc. Doar capitalismul și liberalismul pun individul în centru.
