@@ -17,7 +17,7 @@ CG: Lucian Blaga? Daca dumneavoastra imi demonstrati ca este predat in scoli...
 Gojira: In clasa a 9-a, eu l-am studiat pe Lucian Blaga la Limba si Literatura Romana  
 CG: A, atunci, nu acum!"*  
 
-### Context  
+### Sursa  
 [Calin Georgescu - Candidat independent | Aproximativ Discutii ALEGERI 2024 cu Gojira | Podcast](https://www.youtube.com/watch?v=cd6lf1aWyi4)  
 
 ### Dovezi și fapte  
