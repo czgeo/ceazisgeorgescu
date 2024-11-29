@@ -20,7 +20,7 @@ Ca sa fii pe aceasta zona de lupta apriga nu e de joaca, asta nu poate sa faca d
 Gojira: Deci dvs nu credeti in feminism?  
 CG: In feminism? <span class="emphasis">Feminismul este o mizerie absoluta</span> care i se atribuie femeii. Dati-mi voie sa va spun [...]"
 
-**Context**:  
+**Sursa**:  
 [Calin Georgescu - Candidat independent | Aproximativ Discutii ALEGERI 2024 cu Gojira | Podcast](https://youtu.be/cd6lf1aWyi4?feature=shared&t=1847)  
 <!--more-->
 **Dovezi si fapte**:  
