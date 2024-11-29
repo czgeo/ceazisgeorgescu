@@ -10,7 +10,7 @@ draft: false
 *"În ultima mea misiune în insulele Marshall, [...] Oamenii din acest paradis nu au știut că a existat al Doilea Război Mondial și nu știau că existau doctori. În medie, <span class="emphasis">oamenii de pe insulele Marshall trăiau 180-200 de ani, iar acum media de viață acolo este de 35-45 de ani.</span>"*
 
 
-**Context**: [THE SPIRITUAL AND SOCIAL DEFENDER OF ROMANIA - CĂLIN GEORGESCU](https://www.youtube.com/watch?v=ctwNUYShvL0&t=1964s)
+**Sursa**: [THE SPIRITUAL AND SOCIAL DEFENDER OF ROMANIA - CĂLIN GEORGESCU](https://www.youtube.com/watch?v=ctwNUYShvL0&t=1964s)
 <!--more-->
 **Dovezi si fapte**: 
 - Recordul de longevitate umană:
