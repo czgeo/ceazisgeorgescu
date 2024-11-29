@@ -24,6 +24,10 @@ paginate = 1000
         name = "Oare sunt manipulat?"
         url = "/manipulare/"
         weight = 2
+    [[menu.main]]
+        name = "Despre noi"
+        url = "/despre/"
+        weight = 3
 
 [markup]
   [markup.goldmark]

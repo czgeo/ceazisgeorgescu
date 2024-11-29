@@ -163,6 +163,8 @@
   </url><url>
     <loc>http://192.168.1.137:1313/categories/</loc>
   </url><url>
+    <loc>http://192.168.1.137:1313/despre/</loc>
+  </url><url>
     <loc>http://192.168.1.137:1313/manipulare/</loc>
   </url>
 </urlset>
