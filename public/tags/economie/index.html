@@ -4,13 +4,19 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Ce a zis Catalin Georgescu? | Principalele declaratii controversate">
+<meta property="og:description" content="O agregare a principalelor declaratii controversate ale candidatului la prezidentiale Calin Georgescu, impreuna cu sursa. Fiti informati!">
+<meta property="og:image" content="../themes/papermod/images/geo.jpg">
+<meta property="og:url" content="http://192.168.1.137:1313/tags/economie/">
+<meta property="og:type" content="website">
 <meta name="robots" content="noindex, nofollow">
 <title>Economie | Ce a zis Georgescu?</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://192.168.1.137:1313/tags/economie/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.2a9ac3cfcc7103a78a740f7fcb6a45b7528777d67f740ac556a16532f2f9da8e.css" integrity="sha256-KprDz8xxA6eKdA9/y2pFt1KHd9Z/dArFVqFlMvL52o4=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.cc484a73c5c4b01cb2dce2d22123e658b5989e778a98f9d8d444d014708cef65.css" integrity="sha256-zEhKc8XEsByy3OLSISPmWLWYnneKmPnY1ETQFHCM72U=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://192.168.1.137:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://192.168.1.137:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://192.168.1.137:1313/favicon-32x32.png">
@@ -150,67 +156,32 @@ Conform clasamentului Global Firepower din 2023, care evaluează puterea militar
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
   <a class="entry-link" aria-label="post link to România e un stat slab, sărac și înapoiat" href="http://192.168.1.137:1313/posts/saracie/"></a>
-  
-  <div class="card-actions">
-        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
-        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
-  </div>
+  <button class="copy-btn" onclick="copyToClipboard(this)">Copy Text</button>
   <script>
-    function copyText() {
-        const summaryText = document.querySelector('.card .summary').innerText; 
-        const postUrl = window.location.href; 
-
-        
-        const tempTextArea = document.createElement('textarea');
-        document.body.appendChild(tempTextArea);
-        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
-        tempTextArea.select();
-        document.execCommand('copy');
-        document.body.removeChild(tempTextArea);
-
-        
-        showCopyAnimation();
-    }
-
-    function shareText() {
-        const postUrl = window.location.href; 
-
-        if (navigator.share) {
-            navigator.share({
-                title: document.title,
-                text: 'Check out this post!',
-                url: postUrl
-            }).then(() => {
-                console.log('Shared successfully');
-            }).catch((error) => {
-                console.log('Sharing failed', error);
-            });
-        } else {
-            
-            alert('Sharing is not supported in your browser.');
-        }
-
-        
-        showShareAnimation();
-    }
-
-    
-    function showCopyAnimation() {
-        const btn = document.querySelector('.copy-btn');
-        btn.classList.add('clicked');
-        setTimeout(() => {
-            btn.classList.remove('clicked');
-        }, 3000);
-    }
-
-    function showShareAnimation() {
-        const btn = document.querySelector('.share-btn');
-        btn.classList.add('clicked');
-        setTimeout(() => {
-            btn.classList.remove('clicked');
-        }, 3000);
+    function copyToClipboard(button) {
+      
+      const article = button.closest('article');
+      
+      const summary = article.querySelector('.entry-content').innerText;
+      
+      const postLink = article.querySelector('.entry-link').href;
+      const textToCopy = summary + "\n" + "Read more here: " + postLink;
+  
+      
+      const textArea = document.createElement('textarea');
+      textArea.value = textToCopy;
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textArea);
+      
+      button.classList.add('clicked');
+      setTimeout(() => {
+      button.classList.remove('clicked');
+    }, 3000);
     }
   </script>
+  
 </article>
 
 <article class="post-entry tag-entry"> 
@@ -233,67 +204,32 @@ Conform clasamentului Global Firepower din 2023, care evaluează puterea militar
   </div>
   <footer class="entry-footer"><span title='2024-11-28 00:00:00 +0000 UTC'>November 28, 2024</span></footer>
   <a class="entry-link" aria-label="post link to Industria este la pamant" href="http://192.168.1.137:1313/posts/industria/"></a>
-  
-  <div class="card-actions">
-        <button class="action-btn copy-btn" onclick="copyText()">📋 Copy</button>
-        <button class="action-btn share-btn" onclick="shareText()">🔗 Share</button>
-  </div>
+  <button class="copy-btn" onclick="copyToClipboard(this)">Copy Text</button>
   <script>
-    function copyText() {
-        const summaryText = document.querySelector('.card .summary').innerText; 
-        const postUrl = window.location.href; 
-
-        
-        const tempTextArea = document.createElement('textarea');
-        document.body.appendChild(tempTextArea);
-        tempTextArea.value = `${summaryText}\n\nRead more: ${postUrl}`;
-        tempTextArea.select();
-        document.execCommand('copy');
-        document.body.removeChild(tempTextArea);
-
-        
-        showCopyAnimation();
-    }
-
-    function shareText() {
-        const postUrl = window.location.href; 
-
-        if (navigator.share) {
-            navigator.share({
-                title: document.title,
-                text: 'Check out this post!',
-                url: postUrl
-            }).then(() => {
-                console.log('Shared successfully');
-            }).catch((error) => {
-                console.log('Sharing failed', error);
-            });
-        } else {
-            
-            alert('Sharing is not supported in your browser.');
-        }
-
-        
-        showShareAnimation();
-    }
-
-    
-    function showCopyAnimation() {
-        const btn = document.querySelector('.copy-btn');
-        btn.classList.add('clicked');
-        setTimeout(() => {
-            btn.classList.remove('clicked');
-        }, 3000);
-    }
-
-    function showShareAnimation() {
-        const btn = document.querySelector('.share-btn');
-        btn.classList.add('clicked');
-        setTimeout(() => {
-            btn.classList.remove('clicked');
-        }, 3000);
+    function copyToClipboard(button) {
+      
+      const article = button.closest('article');
+      
+      const summary = article.querySelector('.entry-content').innerText;
+      
+      const postLink = article.querySelector('.entry-link').href;
+      const textToCopy = summary + "\n" + "Read more here: " + postLink;
+  
+      
+      const textArea = document.createElement('textarea');
+      textArea.value = textToCopy;
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textArea);
+      
+      button.classList.add('clicked');
+      setTimeout(() => {
+      button.classList.remove('clicked');
+    }, 3000);
     }
   </script>
+  
 </article>
     </main>
     

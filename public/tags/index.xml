@@ -6,8 +6,50 @@
     <description>Recent content in Tags on Ce a zis Georgescu?</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://192.168.1.137:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clima</title>
+      <link>http://192.168.1.137:1313/tags/clima/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/clima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dezinformare</title>
+      <link>http://192.168.1.137:1313/tags/dezinformare/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/dezinformare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Educatie</title>
+      <link>http://192.168.1.137:1313/tags/educatie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/educatie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geografie</title>
+      <link>http://192.168.1.137:1313/tags/geografie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/geografie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Istorie</title>
+      <link>http://192.168.1.137:1313/tags/istorie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/istorie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stiinta</title>
+      <link>http://192.168.1.137:1313/tags/stiinta/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/stiinta/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Aberatii</title>
       <link>http://192.168.1.137:1313/tags/aberatii/</link>
@@ -65,13 +107,6 @@
       <description></description>
     </item>
     <item>
-      <title>Dezinformare</title>
-      <link>http://192.168.1.137:1313/tags/dezinformare/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/dezinformare/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Dezvoltare</title>
       <link>http://192.168.1.137:1313/tags/dezvoltare/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
@@ -83,13 +118,6 @@
       <link>http://192.168.1.137:1313/tags/economie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/economie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Educatie</title>
-      <link>http://192.168.1.137:1313/tags/educatie/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/educatie/</guid>
       <description></description>
     </item>
     <item>
@@ -132,13 +160,6 @@
       <link>http://192.168.1.137:1313/tags/industrie/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/industrie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Istorie</title>
-      <link>http://192.168.1.137:1313/tags/istorie/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/istorie/</guid>
       <description></description>
     </item>
     <item>
@@ -195,13 +216,6 @@
       <link>http://192.168.1.137:1313/tags/schengen/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/schengen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stiinta</title>
-      <link>http://192.168.1.137:1313/tags/stiinta/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/stiinta/</guid>
       <description></description>
     </item>
   </channel>
