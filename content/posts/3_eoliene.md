@@ -10,7 +10,7 @@ weight: 2
 
 *"Nu produc eolienele energie, <span class="emphasis">eolienele sunt la nivel de 0.01%.</span> Ce produce energie este energia din apa, energia din carbune, astea sunt elementele primare. Cine v-a spus despre energia eoliana va spun ca nu este asa, si este o demonstratie precisa. [...] Cine? Eolienele? Nu are cum, nu are cum sa fie asa. Eolinele <span class="emphasis">au un efect foarte nociv secundar, radiatiile, electromagnetism, acolo se distruge viata din jur,</span> din tot ceea ce creste, culturile, fauna, flora sunt secatuite."*  
 
-### Context  
+### Sursa  
 [Cine este Calin Georgescu, UN PARTID CAT UN POPOR! DIALOG FABULOS cu Mihai Tatulici](https://youtu.be/wF8YQCAyu9w?si=78le0NmeJCWHLeNk&t=994)  
 
 ### Dovezi și fapte  
