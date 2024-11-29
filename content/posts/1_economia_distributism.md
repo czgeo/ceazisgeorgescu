@@ -1,6 +1,6 @@
 ---
 title: "Despre Distributism și Resuveranizarea României"
-date: 2024-11-29
+date: 2024-11-28
 tags: ["economia", "distributism", "politica monetara"]
 draft: false
 weight: 1
