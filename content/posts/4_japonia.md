@@ -8,7 +8,7 @@ weight: 2
 
 ### Declaratie  
 
-*"CG: <span class="emphasis">Japonia modernă astăzi, uitați-vă, vă dau un exemplu concret, se bazează pe legea lui Spiru Haret. O știu asta de la maestrul meu Mircea Malița, trimis de Ceaușescu la vremea respectivă în Japonia, văzând saltul japonez...</span> L-au plimbat prin Japonia și tot nu îi spuneau despre ce e vorba, și sătul, după două trei zile, a spus: Bine, dom'le, spuneți, dom'le, cum ați făcut chestia asta, că n-am înțeles nimic! Și ăștia, jenați, japonezii, în stilul lor foarte elegant, i-au spus: Dom'le, păi noi am luat legea românului vostru Spiru Haret și am aplicat-o în Japonia. <<span class="emphasis">Asta este.</span>"*  
+*"CG: <span class="emphasis">Japonia modernă astăzi, uitați-vă, vă dau un exemplu concret, se bazează pe legea lui Spiru Haret. O știu asta de la maestrul meu Mircea Malița, trimis de Ceaușescu la vremea respectivă în Japonia, văzând saltul japonez...</span> L-au plimbat prin Japonia și tot nu îi spuneau despre ce e vorba, și sătul, după două trei zile, a spus: Bine, dom'le, spuneți, dom'le, cum ați făcut chestia asta, că n-am înțeles nimic! Și ăștia, jenați, japonezii, în stilul lor foarte elegant, i-au spus: Dom'le, păi noi am luat legea românului vostru Spiru Haret și am aplicat-o în Japonia. <span class="emphasis">Asta este.</span>"*  
 
 ### Context  
 [Dezbaterile Metropolei - Călin Georgescu, Radu Herjeu - 16 Septembrie 2024 - Minutul 27](https://youtu.be/QHyEdqyXrM0?si=hoSzgoF7SDN1BTvJ&t=1677)  
