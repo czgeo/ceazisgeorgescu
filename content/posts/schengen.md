@@ -9,7 +9,7 @@ weight: 2
 **Declaratie**: 
 *"Pentru mine este o mare onoare ca nu am intrat in Schengen, subliniez asta, <span class="emphasis">ma bucur ca nu am intrat in Schengen</span>, ne este bine ca n-am intrat in Shengen, noi nu avem nevoie de covrigul lor, si nici sa pupam ghiulul."*
 
-**Context**: [Minutul 1:47](https://youtu.be/_A093_XU3IE?t=107)
+**Sursa**: [Minutul 1:47](https://youtu.be/_A093_XU3IE?t=107)
 
 **Dovezi si fapte**: [Informații despre Schengen](https://shorturl.at/QP2Q4)
 <!--more-->
