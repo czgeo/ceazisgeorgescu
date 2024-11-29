@@ -13,7 +13,7 @@ _"În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevo
 Și chiar dacă nu se știe încă acest lucru, vreau să le atrag atenția acestor pseudo istorici și pseudo culți care se grăbesc să împroaște cu noroi această expresie de sănătate, ea face parte din istoria poporului român. Și manipularea de azi a fost atunci."_
   
 
-### Context  
+### Sursa  
 [Live cu dr. Călin Georgescu: A supraviețui identitar](https://www.facebook.com/GoguPuiu49/videos/3153666288043581/)  
 
 ### Dovezi si fapte  
