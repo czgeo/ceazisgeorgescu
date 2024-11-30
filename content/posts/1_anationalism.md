@@ -1,18 +1,18 @@
 ---
 title: "Despre Nationalismul Global si Miscarea Legionara"
 date: 2024-11-29
-tags: ["stiinta", "dezinformare", "istorie", "conspiratie"]
+tags: ["stiinta", "dezinformare", "istorie", "conspiratie", "legionar"]
 draft: false
 weight: 1
 ---
 
 ### Declaratie  
 
-_"Intrebare: Deci credeti ca acesta este motivul si anume frica, pentru care adevarul despre  <span class="emphasis">miscarea legionara, caci despre ea este vorba, in aceasta Lege 217 se doreste ingropat</span>, chiar si la 80 de ani de la asasinarea fondatorului sau. Frica sa fie oare singurul motiv pentru care se incearca ingroparea?  
+*"Intrebare: Deci credeti ca acesta este motivul si anume frica, pentru care adevarul despre  <span class="emphasis">miscarea legionara, caci despre ea este vorba, in aceasta Lege 217 se doreste ingropat</span>, chiar si la 80 de ani de la asasinarea fondatorului sau. Frica sa fie oare singurul motiv pentru care se incearca ingroparea?  
 
 CG: Frica, si, bineinteles, frica asa cum am spus. Frica si pierderea umanitatii, pierderea spiritului. Aici este atacul care se da, nu doar la nivelul Romaniei, ci la nivel mondial. < <span class="emphasis">De aia spuneam ca in noul nationalism discutam de un patriotism la nivel mondial, de care este nevoie in aceste momente. Iar Miscarea legionara, atunci cand se va scrie istoria adevarata pentru ca nu s-a scris inca istoria adevarata, dar se va scrie, se va arata ca a fost cea mai puternica esenta si expresie de sanatate si de vointa proprie venita din poporul roman. A fost unica, ea n-a fost nici o copie, facuta cu nimeni si de la nimeni.</span> 
 
-Indiferent ce s-ar spune si indiferent cat sa se mai scrie impotriva ei, asta este adevarul. Si chiar daca nu se stie inca acest lucru, as vrea sa le atrag atentia acestor pseudo istorici sau pseudo culti care se grabesc sa improaste cu noroi aceasta  <span class="emphasis">expresie de sanatate cum spuneam, ca ea face parte din istoria poporului roman.</span> Si manipularea care este astazi a fost si atunci, si chiar daca, conducatorul miscarii legionare, Corneliu Zelea Codreanu alaturi de aproape 17 mii de comandati, la vremea respectiva a fost inlaturat, ceea ce pe mine ma doare aceasta inlaturare, nu a miscat pe nimeni din ceilalti aflati in tara.  <span class="emphasis">Pentru ca aceasta abnegatie a miscarii legionare, ne-a demonstrat un lucru pe care il vedem astazi. Nu a fost suficienta pentru crearea unui stat puternic si pentru transformarea unei populatii inca in popor</span>."_
+Indiferent ce s-ar spune si indiferent cat sa se mai scrie impotriva ei, asta este adevarul. Si chiar daca nu se stie inca acest lucru, as vrea sa le atrag atentia acestor pseudo istorici sau pseudo culti care se grabesc sa improaste cu noroi aceasta  <span class="emphasis">expresie de sanatate cum spuneam, ca ea face parte din istoria poporului roman.</span> Si manipularea care este astazi a fost si atunci, si chiar daca, conducatorul miscarii legionare, Corneliu Zelea Codreanu alaturi de aproape 17 mii de comandati, la vremea respectiva a fost inlaturat, ceea ce pe mine ma doare aceasta inlaturare, nu a miscat pe nimeni din ceilalti aflati in tara.  <span class="emphasis">Pentru ca aceasta abnegatie a miscarii legionare, ne-a demonstrat un lucru pe care il vedem astazi. Nu a fost suficienta pentru crearea unui stat puternic si pentru transformarea unei populatii inca in popor</span>."*
   
 
 ### Sursa 
