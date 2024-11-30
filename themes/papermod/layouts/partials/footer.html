@@ -7,6 +7,8 @@
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
         {{- print " · "}}
+        <a href="{{ .Site.Params.privacy_policy_url }}">{{ .Site.Params.privacy_policy_text }}</a>
+        {{- print " · "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}

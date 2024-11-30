@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://192.168.1.137:1313/posts/1_anationalism/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/posts/1_calul/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/posts/3_gaza/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/posts/incalzireglobala/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.137:1313/posts/nationalism/</loc>
+    <loc>http://192.168.1.137:1313/posts/1_economia_distributism/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.1.137:1313/posts/1_medicina_2/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/posts/4_japonia/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/posts/2_vaccin/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/posts/blaga/</loc>
@@ -29,6 +41,12 @@
     <loc>http://192.168.1.137:1313/posts/schengen/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.1.137:1313/posts/nanocipuri/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/posts/telepatie/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/posts/apa-h2o/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,13 +56,22 @@
     <loc>http://192.168.1.137:1313/posts/petrol/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.1.137:1313/tags/agricultura/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/clima/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.1.137:1313/tags/conspiratie/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/tags/dezinformare/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/economie/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/educatie/</loc>
@@ -53,7 +80,19 @@
     <loc>http://192.168.1.137:1313/tags/geografie/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.1.137:1313/tags/imunitate/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.1.137:1313/tags/istorie/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/limba-romana/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/medicina/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/nanocipuri/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/posts/</loc>
@@ -63,6 +102,12 @@
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/telepatie/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/vaccinuri/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/aberatii/</loc>
@@ -75,9 +120,6 @@
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/comunism/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://192.168.1.137:1313/tags/conspiratie/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/covid-19/</loc>
@@ -101,7 +143,10 @@
     <loc>http://192.168.1.137:1313/tags/dezvoltare/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.137:1313/tags/economie/</loc>
+    <loc>http://192.168.1.137:1313/tags/distributism/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/economia/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/energie/</loc>
@@ -128,9 +173,6 @@
     <loc>http://192.168.1.137:1313/posts/intelepciunearusa/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.137:1313/tags/limba-romana/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://192.168.1.137:1313/tags/literatura/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -147,6 +189,9 @@
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/posts/1_luna/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.137:1313/tags/politica-monetara/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.137:1313/tags/rasism/</loc>
@@ -166,5 +211,7 @@
     <loc>http://192.168.1.137:1313/despre/</loc>
   </url><url>
     <loc>http://192.168.1.137:1313/manipulare/</loc>
+  </url><url>
+    <loc>http://192.168.1.137:1313/privacy-policy/</loc>
   </url>
 </urlset>

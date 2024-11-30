@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://192.168.1.137:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agricultura</title>
+      <link>http://192.168.1.137:1313/tags/agricultura/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/agricultura/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Clima</title>
       <link>http://192.168.1.137:1313/tags/clima/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
@@ -16,10 +23,24 @@
       <description></description>
     </item>
     <item>
+      <title>Conspiratie</title>
+      <link>http://192.168.1.137:1313/tags/conspiratie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/conspiratie/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dezinformare</title>
       <link>http://192.168.1.137:1313/tags/dezinformare/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/dezinformare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economie</title>
+      <link>http://192.168.1.137:1313/tags/economie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/economie/</guid>
       <description></description>
     </item>
     <item>
@@ -37,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Imunitate</title>
+      <link>http://192.168.1.137:1313/tags/imunitate/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/imunitate/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Istorie</title>
       <link>http://192.168.1.137:1313/tags/istorie/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
@@ -44,10 +72,45 @@
       <description></description>
     </item>
     <item>
+      <title>Limba Romana</title>
+      <link>http://192.168.1.137:1313/tags/limba-romana/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/limba-romana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medicina</title>
+      <link>http://192.168.1.137:1313/tags/medicina/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/medicina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nanocipuri</title>
+      <link>http://192.168.1.137:1313/tags/nanocipuri/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/nanocipuri/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Stiinta</title>
       <link>http://192.168.1.137:1313/tags/stiinta/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/stiinta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telepatie</title>
+      <link>http://192.168.1.137:1313/tags/telepatie/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/telepatie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaccinuri</title>
+      <link>http://192.168.1.137:1313/tags/vaccinuri/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/vaccinuri/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +132,6 @@
       <link>http://192.168.1.137:1313/tags/comunism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/comunism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conspiratie</title>
-      <link>http://192.168.1.137:1313/tags/conspiratie/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/conspiratie/</guid>
       <description></description>
     </item>
     <item>
@@ -114,10 +170,17 @@
       <description></description>
     </item>
     <item>
-      <title>Economie</title>
-      <link>http://192.168.1.137:1313/tags/economie/</link>
+      <title>Distributism</title>
+      <link>http://192.168.1.137:1313/tags/distributism/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/economie/</guid>
+      <guid>http://192.168.1.137:1313/tags/distributism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economia</title>
+      <link>http://192.168.1.137:1313/tags/economia/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/economia/</guid>
       <description></description>
     </item>
     <item>
@@ -163,13 +226,6 @@
       <description></description>
     </item>
     <item>
-      <title>Limba Romana</title>
-      <link>http://192.168.1.137:1313/tags/limba-romana/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.137:1313/tags/limba-romana/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Literatura</title>
       <link>http://192.168.1.137:1313/tags/literatura/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
@@ -188,6 +244,13 @@
       <link>http://192.168.1.137:1313/tags/mediu/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://192.168.1.137:1313/tags/mediu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politica Monetara</title>
+      <link>http://192.168.1.137:1313/tags/politica-monetara/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/tags/politica-monetara/</guid>
       <description></description>
     </item>
     <item>
