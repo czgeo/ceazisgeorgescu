@@ -24,7 +24,8 @@ Pentru că ei au ținut spiritul demn al acestei națiuni. Și vă întreb eu, s
 
 **1. Ce este Legea 217/2015?**  
 - Legea 217/2015, cunoscută ca legea anti-legionară, modifică Ordonanța de Urgență 31/2002, interzicând promovarea ideologiilor fasciste, legionare, rasiste sau xenofobe și a simbolurilor asociate.  
-- Sursa: [Legislație Oficială](https://legislatie.just.ro/Public/DetaliiDocument/170057)  
+- Sursa: [Legislație Oficială](https://legislatie.just.ro/Public/DetaliiDocument/170057)
+- De citit: [Legionarul Corneliu Zelea Codreanu a fost comemorat cu salutul nazist în prag de alegeri - de Venera Dimulescu, Fotografii de Andrei Pungovschi](https://www.scena9.ro/article/salut-nazist-corneliu-zelea-codreanu-comemorare-legionari-extremism-tancabesti-2024)
 
 **2. Experimentul Pitești**  
 - Experimentul Pitești a fost o formă brutală de reeducare aplicată între 1949 și 1951 asupra deținuților politici. Unii istorici au remarcat încercări de reinterpretare a faptelor, ceea ce a generat dezbateri publice și controverse.  
