@@ -1,5 +1,5 @@
 ---
-title: "Legea divină a Sarmizegetusei și revolta interioară"
+title: "In 33 ani in Romania nu a existat nici o Revolutie"
 date: 2024-12-02
 tags: ["istorie", "spiritualitate", "revolutie"]
 draft: false
