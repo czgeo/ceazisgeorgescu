@@ -5,7 +5,6 @@ theme = "papermod"
 paginate = 1000
 
 
-
 [params]
     mainSections = ["posts"]
     ShowReadingTime = false
@@ -16,6 +15,12 @@ paginate = 1000
     ogImage = "/images/geo2.jpeg" #(relative to the `static/` folder)
     privacy_policy_url = "/privacy-policy/"
     privacy_policy_text = "Privacy Policy"
+    social = true
+
+    [[params.socialIcons]]
+      name = "Instagram"
+      url = "https://www.instagram.com/ceazisgeorgescu"
+
 
 [menu]
     [[menu.main]]

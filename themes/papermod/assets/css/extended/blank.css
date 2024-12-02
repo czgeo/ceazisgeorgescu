@@ -135,3 +135,44 @@ body.dark .copy-btn {
     font-size: 85%;
   }
   
+/* Ensures elements in .our-switches are displayed in a row */
+.our-switches {
+    display: flex;       /* Ensures elements are laid out in a row */
+    align-items: top;        /* Vertically centers the items */
+    gap: 10px;                  /* Adds spacing between the button and Instagram link */
+}
+
+.insta-link a {
+    display: inline-block;      /* Makes the anchor tag an inline-block element */
+    text-decoration: none;      /* Removes the underline from the link */
+    margin: 0;
+}
+
+.insta-link svg {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+}
+
+.insta-link {
+    margin-left: auto;
+}
+
+.search-container {
+    flex-grow: 1; /* Allow the search container to expand */
+  }
+  
+  .search-container input {
+    width: 100%; /* Make the search bar take the full width of the container */
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 2px solid #333; /* Adjust for dark/light mode */
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+  }
+  
+  body.dark .search-container input {
+    border-color: #eee; /* Adjust for dark mode */
+    background-color: #333;
+    color: #eee;
+  }

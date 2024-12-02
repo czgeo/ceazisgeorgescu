@@ -41,13 +41,42 @@
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
-<div class="toggle-container">
-  <button id="toggleTitluri">Doar Titluri</button>
+<div class="our-switches">
+  <div class="toggle-container">
+    <button id="toggleTitluri">Doar Titluri</button>
+  </div>
+  <div class="search-container">
+    <input id="searchBar" type="text" placeholder="Cauta declaratii..." />
+  </div>
+  <div class="insta-link">
+    <a href="https://www.instagram.com/ceazisgeorgescu" target="_blank" rel="noopener noreferrer" title="Instagram">
+      {{ partial "svg.html" (dict "name" "Instagram" "url" "https://www.instagram.com/ceazisgeorgescu" "title" "Instagram") }}
+    </a>
+  </div>
 </div>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
   const toggleButton = document.getElementById("toggleTitluri");
   const articles = document.querySelectorAll("article");
+  const searchBar = document.getElementById("searchBar");
+
+  searchBar.addEventListener("input", function () {
+    const query = searchBar.value.toLowerCase();
+
+    articles.forEach((article) => {
+      const title = article.querySelector("h2").textContent.toLowerCase();
+      const summary = article.querySelector(".entry-content")
+        ? article.querySelector(".entry-content").textContent.toLowerCase()
+        : "";
+
+      // Show article if title or summary matches query
+      if (title.includes(query) || summary.includes(query)) {
+        article.style.display = "";
+      } else {
+        article.style.display = "none";
+      }
+    });
+  });
 
   toggleButton.addEventListener("click", function () {
     // Toggle the button state
