@@ -32,4 +32,8 @@ Pentru că ei au ținut spiritul demn al acestei națiuni. Și vă întreb eu, s
 - Sursa: [Institutul de Investigare a Crimelor Comunismului și Memoria Exilului Românesc](https://www.iiccmer.ro/)
 - De citit: [Scena9 Vizită ghidată în întuneric De Iulia Iordan](https://www.scena9.ro/article/vizita-copii-memorialul-inchisoarea-pitesti-muzeul-comunismului)
 
+**3. Alte resurse utile**
+- [Video Zaiafet despre Începuturile fascismului în România](https://www.youtube.com/watch?v=wK8hcbeJnEE)
+- [Video Zaiafet despre Corneliu Zelea Codreanu: fanatic până la capăt](https://www.youtube.com/watch?v=V-dYshzFSIU)
+
 
