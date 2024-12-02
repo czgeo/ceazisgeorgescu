@@ -41,6 +41,57 @@
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
+<div class="toggle-container">
+  <button id="toggleTitluri">Doar Titluri</button>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  const toggleButton = document.getElementById("toggleTitluri");
+  const articles = document.querySelectorAll("article");
+
+  toggleButton.addEventListener("click", function () {
+    // Toggle the button state
+    toggleButton.classList.toggle("toggled");
+
+    // Toggle visibility for each article's elements
+    articles.forEach((article) => {
+      const summary = article.querySelector(".entry-content");
+      const copyButton = article.querySelector(".copy-btn");
+      const postDate = article.querySelector(".entry-footer");
+      const clickForMore = article.querySelector(".card-label");
+      article.classList.toggle("toggled");
+
+
+      if (summary) {
+        summary.style.display =
+          summary.style.display === "none" ? "block" : "none";
+      }
+
+      if (copyButton) {
+        copyButton.style.display =
+          copyButton.style.display === "none" ? "block" : "none";
+      }
+
+      if (postDate) {
+        postDate.style.display =
+          postDate.style.display === "none" ? "block" : "none";
+      }
+
+      if (clickForMore) {
+      // Toggle the 'toggled' class for the "Click for more" label
+      clickForMore.classList.toggle("toggled");
+      if (clickForMore.classList.contains("toggled")) {
+        clickForMore.textContent = "Click";
+      } else {
+        clickForMore.textContent = "Click for more";
+      }
+      }
+    });
+  });
+});
+
+</script>
+
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}

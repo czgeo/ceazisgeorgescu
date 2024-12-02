@@ -16,14 +16,12 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     font-weight: 600;
     pointer-events: none; /* Prevent this element from being clickable */
     z-index: 1;
+    transition: background-color 0.7s ease;
 }
 
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-    .card-label {
-        background-color: #eee; /* Dark grey background for dark mode */
-        color: #333; /* Light text for dark mode */
-    }
+body.dark div.card-label {
+    background-color: #eee; 
+    color: #333;
 }
 
   .copy-btn {
@@ -31,8 +29,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     bottom: 0px;
     right: 0px;
     padding: 4px 8px;
-    background-color: #eee;
-    color: #333;
+    background-color: #555; /* Grey background for light mode */
+    color: #f5f5f5; /* Dark text for light mode */
     border: none;
     border-radius: var(--radius) 0 var(--radius) 0;
     cursor: pointer;
@@ -46,4 +44,94 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     color: white; 
   }
 
+body.dark .copy-btn {
+    background-color: #eee; 
+    color: #333;
+}
+/* Default button styles */
+.toggle-container {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  #toggleTitluri {
+    padding: 5px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid;
+    transition: all 0.3s ease;
+    background-color: transparent;
+  }
+  
+  /* Light Mode */
+  :root {
+    --btn-text: #333;
+    --btn-border: #333;
+    --btn-bg: #fff;
+  }
+  
+  body #toggleTitluri {
+    color: var(--btn-text);
+    border-color: var(--btn-border);
+  }
+  
+  body #toggleTitluri.toggled {
+    background-color: var(--btn-border);
+    color: var(--btn-bg);
+    border-color: var(--btn-border);
+  }
+  
+  /* Dark Mode */
+  body.dark {
+    --btn-text: #eee;
+    --btn-border: #eee;
+    --btn-bg: #333;
+  }
+  
+  body.dark #toggleTitluri {
+    color: var(--btn-text);
+    border-color: var(--btn-border);
+  }
+  
+  body.dark #toggleTitluri.toggled {
+    background-color: var(--btn-border);
+    color: var(--btn-bg);
+    border-color: var(--btn-border);
+  }
 
+  div.card-label.toggled {
+    position: absolute; /* Move to fixed position on the right edge */
+    top: 0;
+    bottom: 0;
+    right: 0;
+    min-height: max-content;
+    width: 30px;
+
+    writing-mode: vertical-rl; /* More widely supported */
+    -webkit-writing-mode: vertical-rl; /* Webkit prefix for older browsers */
+    text-orientation: mixed;
+    -webkit-text-orientation: mixed; /* Webkit prefix */
+
+
+    padding: 4px 4px;
+    background-color: #333; /* Adjust as per light/dark mode */
+    color: #eee;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    text-align: center;
+    z-index: 1000; /* Ensure it stays above other elements */
+
+    max-width: 100%; /* Prevent horizontal overflow */
+    max-height: 100%; /* Prevent vertical overflow */
+    overflow: hidden; /* Hide any content that tries to overflow */
+  }
+
+  article.post-entry.toggled {
+    padding: var(--gap);
+    padding-right: 10%;
+  }
+
+  article.post-entry.toggled h2{
+    font-size: 85%;
+  }
+  

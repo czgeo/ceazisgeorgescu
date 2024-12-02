@@ -17,7 +17,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://192.168.1.137:1313/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.cc484a73c5c4b01cb2dce2d22123e658b5989e778a98f9d8d444d014708cef65.css" integrity="sha256-zEhKc8XEsByy3OLSISPmWLWYnneKmPnY1ETQFHCM72U=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.dd4ff316478e31972fb93178ba9623c31e6b185eaecdb57a1b6a7ed85e796430.css" integrity="sha256-3U/zFkeOMZcvuTF4upYjwx5rGF6uzbV6G2p&#43;2F55ZDA=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://192.168.1.137:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://192.168.1.137:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://192.168.1.137:1313/favicon-32x32.png">
@@ -126,6 +126,56 @@
     </nav>
 </header>
 <main class="main"> 
+<div class="toggle-container">
+  <button id="toggleTitluri">Doar Titluri</button>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  const toggleButton = document.getElementById("toggleTitluri");
+  const articles = document.querySelectorAll("article");
+
+  toggleButton.addEventListener("click", function () {
+    
+    toggleButton.classList.toggle("toggled");
+
+    
+    articles.forEach((article) => {
+      const summary = article.querySelector(".entry-content");
+      const copyButton = article.querySelector(".copy-btn");
+      const postDate = article.querySelector(".entry-footer");
+      const clickForMore = article.querySelector(".card-label");
+      article.classList.toggle("toggled");
+
+
+      if (summary) {
+        summary.style.display =
+          summary.style.display === "none" ? "block" : "none";
+      }
+
+      if (copyButton) {
+        copyButton.style.display =
+          copyButton.style.display === "none" ? "block" : "none";
+      }
+
+      if (postDate) {
+        postDate.style.display =
+          postDate.style.display === "none" ? "block" : "none";
+      }
+
+      if (clickForMore) {
+      
+      clickForMore.classList.toggle("toggled");
+      if (clickForMore.classList.contains("toggled")) {
+        clickForMore.textContent = "Click";
+      } else {
+        clickForMore.textContent = "Click for more";
+      }
+      }
+    });
+  });
+});
+
+</script>
 
 <article class="post-entry"> 
   <div class="card-label">Click for more</div>
@@ -135,10 +185,12 @@
   </header>
   <div class="entry-content">
     <h3 id="declaratie">Declaratie</h3>
-<p>_&ldquo;În noul naționalism vorbim de un patriotism la nivel mondial, de care e nevoie în aceste momente. Iar <span class="emphasis">mișcarea legionară</span> atunci când se va scrie istoria adevărată, pentru că nu s-a scris încă istoria adevărată, dar se va scrie, se va arăta că <span class="emphasis">a fost cea mai puternică esență și expresie de sănătate și de voință proprie venită din poporul român</span>. A fost unică. Nu a fost nicio copie făcută de nimeni, indiferent de ce s-a spus și indiferent de ce se va spune împotriva ei.</p>
-<p>Și chiar dacă nu se știe încă acest lucru, vreau să le atrag atenția acestor pseudo istorici și pseudo culți care se grăbesc să împroaște cu noroi această expresie de sănătate, ea face parte din istoria poporului român. Și manipularea de azi a fost atunci.&rdquo;_</p>
+<p>*&ldquo;INT: Deci credeti ca acesta este motivul si anume frica, pentru care adevarul despre  <span class="emphasis">miscarea legionara, caci despre ea este vorba, in aceasta Lege 217 se doreste ingropat</span>, chiar si la 80 de ani de la asasinarea fondatorului sau. Frica sa fie oare singurul motiv pentru care se incearca ingroparea?</p>
+<p>CG: Frica, si, bineinteles, frica asa cum am spus. Frica si pierderea umanitatii, pierderea spiritului. Aici este atacul care se da, nu doar la nivelul Romaniei, ci la nivel mondial. <span class="emphasis">De aia spuneam ca in noul nationalism discutam de un patriotism la nivel mondial, de care este nevoie in aceste momente. Iar Miscarea legionara, atunci cand se va scrie istoria adevarata pentru ca nu s-a scris inca istoria adevarata, dar se va scrie, se va arata ca a fost cea mai puternica esenta si expresie de sanatate si de vointa proprie venita din poporul roman. A fost unica, ea n-a fost nici o copie, facuta cu nimeni si de la nimeni.</span></p>
+<p>Indiferent ce s-ar spune si indiferent cat sa se mai scrie impotriva ei, asta este adevarul. Si chiar daca nu se stie inca acest lucru, as vrea sa le atrag atentia acestor pseudo istorici sau pseudo culti care se grabesc sa improaste cu noroi aceasta  <span class="emphasis">expresie de sanatate cum spuneam, ca ea face parte din istoria poporului roman.</span> Si manipularea care este astazi a fost si atunci, si chiar daca, conducatorul miscarii legionare, Corneliu Zelea Codreanu alaturi de aproape 17 mii de comandati, la vremea respectiva a fost inlaturat, ceea ce pe mine ma doare aceasta inlaturare, nu a miscat pe nimeni din ceilalti aflati in tara.  <span class="emphasis">Pentru ca aceasta abnegatie a miscarii legionare, ne-a demonstrat un lucru pe care il vedem astazi. Nu a fost suficienta pentru crearea unui stat puternic si pentru transformarea unei populatii inca in popor</span>.&rdquo;*</p>
 <h3 id="sursa">Sursa</h3>
-<p><a href="https://www.facebook.com/GoguPuiu49/videos/3153666288043581/">Live cu dr. Călin Georgescu: A supraviețui identitar</a></p>
+<p><strong>MINUTUL 32</strong>
+<a href="https://www.facebook.com/GoguPuiu49/videos/3153666288043581/">Live cu dr. Călin Georgescu: A supraviețui identitar</a></p>
 <h3 id="dovezi-si-fapte">Dovezi si fapte</h3>
     
   </div>
