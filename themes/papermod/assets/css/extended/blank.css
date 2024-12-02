@@ -92,6 +92,7 @@ body.dark .copy-btn {
   body.dark #toggleTitluri {
     color: var(--btn-text);
     border-color: var(--btn-border);
+    min-width: max-content;
   }
   
   body.dark #toggleTitluri.toggled {
