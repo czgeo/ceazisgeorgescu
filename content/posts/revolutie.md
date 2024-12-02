@@ -10,7 +10,7 @@ weight: 1
 
 **CG**: *"Nu a fost decât o lege pe care înaintașii noștri au apărat-o. <span class="emphasis">Legea divină a Sarmizegetusei</span>. Totul pentru țară, nimic pentru mine. Și să nu stăm în genunchi în fața nimănui.  
 
-Astăzi stăm în genunchi în fața întregului Occident, care este mort, și noi nu înțelegem acest lucru. <span class="emphasis">Țara este vândută, și copiii sunt vânduți</span>, și cu toate astea există soluții. Și vă încurajez un singur lucru: revoluție nu aveți cum să faceți, <span class="emphasis">că nu a fost nicio revoluție, vă spun de acum. În 33 de ani în România nu a existat nicio revoluție.  
+Astăzi stăm în genunchi în fața întregului Occident, care este mort, și noi nu înțelegem acest lucru. <span class="emphasis">Țara este vândută, și copiii sunt vânduți</span>, și cu toate astea există soluții. Și vă încurajez un singur lucru: revoluție nu aveți cum să faceți, <span class="emphasis">că nu a fost nicio revoluție, vă spun de acum. În 33 de ani în România nu a existat nicio revoluție. </span>
 
 Cine vă spune că a fost vreo revoluție vreodată, să zicem, ori minte, ori habar nu are, dar merg pe varianta a doua.</span> Singura formă care poate exista este revolta din tine, să fiți rebeli. Știți cine a fost cel mai mare rebel din lumea asta? <span class="emphasis">Iisus Hristos</span>, a fost cel mai mare rebel, n-a existat unul mai mare ca El. Și noi nu înțelegem nimic."*  
 
