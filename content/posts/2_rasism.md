@@ -3,6 +3,7 @@ title: "Declaratie despre seful OMS"
 date: 2024-11-28
 tags: ["rasism", "dezinformare", ]
 draft: false
+weight: 3
 ---
 
 **Declaratie**: Transcriptul în limba română al discuției despre șeful OMS 

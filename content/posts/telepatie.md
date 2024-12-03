@@ -2,7 +2,7 @@
 title: "Se comunica telepatic pe vremea lui Stefan cel Mare"
 date: 2024-11-29
 tags: ["limba romana", "telepatie", "dezinformare", "stiinta"]
-weight: 3
+weight: 2
 draft: false
 ---
 

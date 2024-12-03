@@ -3,6 +3,7 @@ title: "Omul nu a ajuns pe Luna"
 date: 2024-11-28
 tags: ["stiinta", "dezinformare","conspiratie"]
 draft: false
+weight: 2
 ---
 
 **Declaratie**: 

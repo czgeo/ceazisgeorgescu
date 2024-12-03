@@ -3,6 +3,7 @@ title: "Intelepciunea Ruseasca"
 date: 2024-11-28
 tags: ["ideologie", "rusia", "extremism"]
 draft: false
+weight: 1
 ---
 
 **Declaratie**: 

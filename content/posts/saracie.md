@@ -3,7 +3,7 @@ title: "România e un stat slab, sărac și înapoiat"
 date: 2024-11-28
 tags: ["economie", "dezvoltare", "dezinformare"]
 draft: false
-weight: 2
+weight: 4
 ---
 
 ### Declaratie  

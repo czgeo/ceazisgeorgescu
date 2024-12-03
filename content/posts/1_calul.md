@@ -3,7 +3,7 @@ title: "Industria calului - o oportunitate pentru România?"
 date: 2024-11-29
 tags: ["economie", "agricultura", "dezinformare"]
 draft: false
-weight: 1
+weight: 2
 ---
 
 ### Declaratie  

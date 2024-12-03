@@ -3,7 +3,7 @@ title: "Originea numelui Gaza: mit sau realitate?"
 date: 2024-11-29
 tags: ["istorie", "geografie", "dezinformare"]
 draft: false
-weight: 1
+weight: 2
 ---
 
 ### Declaratie  

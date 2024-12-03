@@ -123,6 +123,7 @@
 
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- $pages = sort $pages "Params.weight" "asc" }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}

@@ -2,7 +2,7 @@
 title: "Nanocipuri in Pepsi"
 date: 2024-11-29
 tags: ["nanocipuri", "conspiratie", "dezinformare", "stiinta"]
-weight: 3
+weight: 2
 draft: false
 ---
 

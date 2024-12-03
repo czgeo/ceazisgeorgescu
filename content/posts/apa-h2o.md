@@ -2,7 +2,7 @@
 title: "Apa nu e H2O, am fost dresați"
 date: 2024-11-28
 tags: ["incoerenta", "aberatii", "delir", "stiinta"]
-weight: 3
+weight: 2
 draft: false
 ---
 

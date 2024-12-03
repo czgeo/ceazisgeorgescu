@@ -3,6 +3,7 @@ title: "Despre Piramide si centre de energie"
 date: 2024-11-28
 tags: ["stiinta", "dezinformare","conspiratie"]
 draft: false
+weight: 4
 ---
 
 **Declaratie**: 

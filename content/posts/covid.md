@@ -3,6 +3,7 @@ title: "Nu exista COVID, singura stiinta este Iisus Hristos"
 date: 2024-11-28
 tags: ["covid-19", "religie", "dezinformare", "stiinta"]
 draft: false
+weight: 1
 ---
 
 **Declaratie**: 

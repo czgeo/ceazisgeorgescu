@@ -3,6 +3,7 @@ title: "Industria este la pamant"
 date: 2024-11-28
 tags: ["industrie", "economie", "dezinformare"]
 draft: false
+weight: 4
 ---
 
 **Declaratie**: 

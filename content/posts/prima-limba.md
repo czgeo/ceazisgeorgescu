@@ -2,7 +2,7 @@
 title: "Limba latină se trage din limba română"
 date: 2024-11-28
 tags: ["limba romana", "dacii", "dezinformare", "stiinta"]
-weight: 3
+weight: 1
 draft: false
 ---
 

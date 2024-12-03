@@ -3,6 +3,7 @@ title: "Capitalismul este egal cu Comunismul"
 date: 2024-11-28
 tags: ["ideologie", "dezinformare", "comunism", "capitalism"]
 draft: false
+weight: 4
 ---
 
 **Declaratie**: 
