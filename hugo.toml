@@ -16,6 +16,7 @@ paginate = 1000
     privacy_policy_url = "/privacy-policy/"
     privacy_policy_text = "Privacy Policy"
     social = true
+    ShowShareButtons = true
 
     [[params.socialIcons]]
       name = "Instagram"

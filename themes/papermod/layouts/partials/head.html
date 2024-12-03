@@ -7,7 +7,7 @@
 <meta property="og:image" content="{{ site.Params.ogImage }}">
 <meta property="og:url" content="{{ .Permalink | default .Site.BaseURL }}">
 <meta property="og:type" content="website">
-
+<script src="/js/share.js"></script>
 
 {{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
 <meta name="robots" content="index, follow">

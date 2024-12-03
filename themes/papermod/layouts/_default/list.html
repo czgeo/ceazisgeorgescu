@@ -112,7 +112,7 @@
       if (clickForMore.classList.contains("toggled")) {
         clickForMore.textContent = "Click";
       } else {
-        clickForMore.textContent = "Click for more";
+        clickForMore.textContent = "Click pt. detalii";
       }
       }
     });
@@ -146,7 +146,7 @@
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-  <div class="card-label">Click for more</div>
+  <div class="card-label">Click pt. detalii</div>
   <header class="entry-header">
     <h2 class="entry-hint-parent">
       {{- .Title }}
