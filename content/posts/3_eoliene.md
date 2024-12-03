@@ -16,7 +16,7 @@ weight: 2
 ### Dovezi și fapte  
 
 **Producția de energie eoliană în România**:  
-În 2022, energia eoliană a produs aproximativ **7000 Gigawatt/oră** în România, contribuind semnificativ la mixul energetic național.  
+În 2022, energia eoliană a produs aproximativ **7000 Gigawatt oră** în România, contribuind semnificativ la mixul energetic național și reprezentând 16.5% din puterea instalată în capacitățile de producție a energiei electrice.  
 - Sursa: [Raport energetic](https://onoff.greatnews.ro/producatori-de-energie-eoliana-in-romania-lista-completa-a-centralelor-in-2024/)  
 
 <!--more-->
